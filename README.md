@@ -1,9 +1,13 @@
-Привет)!
+Привет, меня зовут Артём и мне 15 лет)!
 
-  - 🔭 My love for understanding complex systems keeps me fascinated.
-  - 📗 I love to learn more and I am open to new technology.
-  - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
-  - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13. 
+  - 🔭 Не знаю почему, но среди всех доступных языков, я выбрал именно его - JavaScript one Love..
+  - 📗 Нет, конечно же это не единственный язык программирования который я знаю. Мне просто больше всего нравится именно он, и лучше всего я знаю его. (Все мои навыки - смотртите ниже)
+  - ❤️ Спасибо всем, кто когда-либо меня поддерживал и поддерживает, как духовно, так и финансово. А так же особенно благодарен такому человеку как @SamPandey, за его качественный исходный код.
+    
+  Небольшая История: 
+  - 🧰 Весь мой путь в IT начался в 2022 году, когда от того что, мне было нечего делать(Живу в деревне, никого нету) - я решил создать WhatsApp Группу. (А подталкнул меня на это - друг из школы)
+  - С этого момента, все мои мысли были направлены на развитие данной группы, а потом что-то в моей голове стукнуло, и я захотел сделать бота. Начал искать информацию, ничего не смог найти.. А после долгих поисков - в YouTube мне в рекомендациях поподается видео 
+  с ботом под названием Secktor. Это был октябрь, именно с 25 октября 2022 года все началось... 
 
 <h2>Языки программирования и инструменты</h2>
 
@@ -29,7 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.JS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" width="40" height="40"/>
 </p>
 
 <h3>Инструменты</h3>
@@ -37,5 +40,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" title="Firefox" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" title="GIMP" width="40" height="40"/>
 </p>
