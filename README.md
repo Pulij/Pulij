@@ -1,11 +1,11 @@
-Hello!
+Привет)!
 
   - 🔭 My love for understanding complex systems keeps me fascinated.
   - 📗 I love to learn more and I am open to new technology.
   - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
   - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13. 
 
-<h2>Языки программирования и инструменты (Фырффырфыр)</h2>
+<h2>Языки программирования и инструменты</h2>
 
 <h3>Языки</h3>
 <p>
@@ -28,8 +28,6 @@ Hello!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.JS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" width="40" height="40"/>
 </p>
