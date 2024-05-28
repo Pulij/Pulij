@@ -5,7 +5,7 @@ Hello!
   - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
   - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13. 
 
-<h2>Языки программирования и инструментыы (Фырффырфыр)</h2>
+<h2>Языки программирования и инструменты (Фырффырфыр)</h2>
 
 <h3>Языки</h3>
 <p>
@@ -17,13 +17,13 @@ Hello!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40"/>   
 </p>
 
-<h3>Базы данных/services</h3>
+<h3>Базы даннх/сервисы</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
 </p>
 
-<h3>Frameworks</h3>
+<h3>Фреймворки</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.JS" width="40" height="40"/>
@@ -34,7 +34,7 @@ Hello!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" width="40" height="40"/>
 </p>
 
-<h3>Tools</h3>
+<h3>Инструменты</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
