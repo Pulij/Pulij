@@ -54,3 +54,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=ejub91zEY6Sl&format=png&color=000000" title="Chrome" width="40" height="40"/>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pulij?theme=dark&font=Arial)
