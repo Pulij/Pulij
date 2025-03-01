@@ -36,8 +36,8 @@
 
 <h3>🎨 Frontend</h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React/ReactNative" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=kaXYwo7uqATk&format=png&color=000000" title="Electron" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React/ReactNative (Поверхностные знания)" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=kaXYwo7uqATk&format=png&color=000000" title="Electron (Поверхностные знания)" width="40" height="40"/>
 </p>
 
 <h3>⚙️ DevOps & Deployment</h3>
